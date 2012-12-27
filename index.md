@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
-tagline: 
+title: Well Thought
+tagline: Some bits from the well
 ---
 {% include JB/setup %}
 
